@@ -1,4 +1,4 @@
-def add_two_numbers():
+def add_nums():
     number1 = 1
     number2 = 2
     answer = number1+number2
